@@ -12,9 +12,9 @@ Hello, welcome to my Repository, you can call me mashan
 - 🔭 I’m currently working on Private Company <br>
 - 💬 Ask free for me about anywhere...
 
+<!--
 give some ♥ on [mail](mailto:handikawilwatikta@gmail.com) .
 
-<!--
 **txtAnbu/txtAnbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
