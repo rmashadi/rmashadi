@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello, welcome to my Repository, you can call me mashan
 <div id="header">
-  <img src="https://media.giphy.com/media/5tdpB5x3FzD3iNcLgh/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/5tdpB5x3FzD3iNcLgh/giphy.gif" width="1000" height="500"/>
     <br>
   <img align="center" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
